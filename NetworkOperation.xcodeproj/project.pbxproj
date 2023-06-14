@@ -16,6 +16,8 @@
 		1D779ED42A3A32CC00F0A18B /* NetworkOperationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D779ED32A3A32CC00F0A18B /* NetworkOperationTests.swift */; };
 		1D779EDE2A3A32CD00F0A18B /* NetworkOperationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D779EDD2A3A32CD00F0A18B /* NetworkOperationUITests.swift */; };
 		1D779EE02A3A32CD00F0A18B /* NetworkOperationUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D779EDF2A3A32CD00F0A18B /* NetworkOperationUITestsLaunchTests.swift */; };
+		1D779EED2A3A4EB300F0A18B /* Kisiler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D779EEC2A3A4EB300F0A18B /* Kisiler.swift */; };
+		1D779EEF2A3A532300F0A18B /* KisiCevap.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D779EEE2A3A532300F0A18B /* KisiCevap.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		1D779ED92A3A32CD00F0A18B /* NetworkOperationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NetworkOperationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D779EDD2A3A32CD00F0A18B /* NetworkOperationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkOperationUITests.swift; sourceTree = "<group>"; };
 		1D779EDF2A3A32CD00F0A18B /* NetworkOperationUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkOperationUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1D779EEC2A3A4EB300F0A18B /* Kisiler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kisiler.swift; sourceTree = "<group>"; };
+		1D779EEE2A3A532300F0A18B /* KisiCevap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KisiCevap.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 				1D779EC52A3A32CC00F0A18B /* Assets.xcassets */,
 				1D779EC72A3A32CC00F0A18B /* LaunchScreen.storyboard */,
 				1D779ECA2A3A32CC00F0A18B /* Info.plist */,
+				1D779EEC2A3A4EB300F0A18B /* Kisiler.swift */,
+				1D779EEE2A3A532300F0A18B /* KisiCevap.swift */,
 			);
 			path = NetworkOperation;
 			sourceTree = "<group>";
@@ -261,6 +267,8 @@
 				1D779EC12A3A32CC00F0A18B /* ViewController.swift in Sources */,
 				1D779EBD2A3A32CC00F0A18B /* AppDelegate.swift in Sources */,
 				1D779EBF2A3A32CC00F0A18B /* SceneDelegate.swift in Sources */,
+				1D779EED2A3A4EB300F0A18B /* Kisiler.swift in Sources */,
+				1D779EEF2A3A532300F0A18B /* KisiCevap.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
